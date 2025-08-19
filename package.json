@@ -13,6 +13,7 @@
     "@a2seven/yoo-checkout": "^1.1.4",
     "axios": "^1.11.0",
     "dotenv": "^17.2.1",
+    "express": "^5.1.0",
     "telegraf": "^4.16.3",
     "yookassa-sdk": "^0.0.13"
   }
